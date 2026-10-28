@@ -1,0 +1,13 @@
+node_modules/
+target/
+build/
+dist/
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa
+id_ed25519

@@ -1,0 +1,148 @@
+Frontend/bootstap.html:4: trailing whitespace.
+[32m+[m[41m   [m
+Frontend/bootstap.html:8: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstap.html:12: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstap.html:29: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstap.html:35: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstap.html:41: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstap.html:47: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstap.html:58: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstap.html:64: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstap.html:75: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstap.html:78: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstap.html:78: new blank line at EOF.
+Frontend/bootstrap/text.html:4: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:10: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:25: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:31: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:37: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:43: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:54: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:60: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:71: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:74: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:79: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:88: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:91: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:98: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:99: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:103: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:109: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:131: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:134: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:140: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:156: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:157: trailing whitespace.
+[32m+[m[41m [m
+Frontend/bootstrap/text.html:156: new blank line at EOF.
+Frontend/calculator.html:51: trailing whitespace.
+[32m+[m[41m    [m
+Frontend/frontend/React_js/wellness-frontend/src/App.js:20: trailing whitespace.
+[32m+[m[32m        <Routes>[m[41m [m
+Frontend/frontend/React_js/wellness-frontend/src/context/AuthContext.js:2: trailing whitespace.
+[32m+[m[41m [m
+Frontend/frontend/React_js/wellness-frontend/src/context/AuthContext.js:5: trailing whitespace.
+[32m+[m[41m [m
+Frontend/frontend/React_js/wellness-frontend/src/context/AuthContext.js:13: trailing whitespace.
+[32m+[m[41m [m
+Frontend/frontend/React_js/wellness-frontend/src/context/AuthContext.js:16: trailing whitespace.
+[32m+[m[41m [m
+Frontend/frontend/React_js/wellness-frontend/src/context/AuthContext.js:25: trailing whitespace.
+[32m+[m[41m [m
+Frontend/frontend/React_js/wellness-frontend/src/context/AuthContext.js:34: trailing whitespace.
+[32m+[m[41m [m
+Frontend/frontend/React_js/wellness-frontend/src/context/AuthContext.js:40: trailing whitespace.
+[32m+[m[41m [m
+Frontend/frontend/React_js/wellness-frontend/src/context/AuthContext.js:46: trailing whitespace.
+[32m+[m[41m [m
+Frontend/frontend/React_js/wellness-frontend/src/context/AuthContext.js:53: trailing whitespace.
+[32m+[m[41m [m
+Frontend/frontend/React_js/wellness-frontend/src/index.js:14: new blank line at EOF.
+Frontend/hospital-management/registration.html:8: trailing whitespace.
+[32m+[m[41m    [m
+Frontend/location.html:1: trailing whitespace.
+[32m+[m[41m [m
+Frontend/location.html:5: trailing whitespace.
+[32m+[m[41m   [m
+Frontend/location.html:11: trailing whitespace.
+[32m+[m[41m [m
+Frontend/location.html:13: trailing whitespace.
+[32m+[m[41m [m
+Frontend/location.html:19: trailing whitespace.
+[32m+[m[41m [m
+Frontend/location.html:23: trailing whitespace.
+[32m+[m[41m [m
+Frontend/location.html:25: trailing whitespace.
+[32m+[m[41m [m
+Frontend/location.html:27: trailing whitespace.
+[32m+[m[41m [m
+Frontend/location.html:34: trailing whitespace.
+[32m+[m[41m [m
+Frontend/location.html:36: trailing whitespace.
+[32m+[m[41m [m
+Frontend/location.html:39: trailing whitespace.
+[32m+[m[41m [m
+Frontend/location.html:45: trailing whitespace.
+[32m+[m[41m [m
+Frontend/location.html:50: trailing whitespace.
+[32m+[m[41m [m
+Frontend/location.html:53: trailing whitespace.
+[32m+[m[41m [m
+Frontend/location.html:57: trailing whitespace.
+[32m+[m[41m [m
+Frontend/location.html:65: trailing whitespace.
+[32m+[m[41m [m
+Frontend/location.html:65: new blank line at EOF.
+backend1/Enrollment-Service/bin/src/main/resources/application.properties:21: new blank line at EOF.
+backend1/Enrollment-Service/src/main/java/com/enrollment/controller/EnrollmentController.java:82: trailing whitespace.
+[32m+[m[41m    [m
+backend1/Enrollment-Service/src/main/resources/application.properties:21: new blank line at EOF.
+backend1/Patient-Service/src/main/java/com/patient/repository/PatientRepository.java:11: new blank line at EOF.
+backend1/Patient-Service/src/main/resources/application.properties:27: trailing whitespace.
+[32m+[m[32msecurity.jwt.expiration-ms=86400000[m[41m   [m
+backend1/Payment-Service/src/main/java/com/payment/controller/PaymentController.java:48: new blank line at EOF.
+backend1/Payment-Service/src/main/java/com/payment/entity/Payment.java:41: trailing whitespace.
+[32m+[m[41m    [m
+backend1/Payment-Service/src/main/java/com/payment/entity/Payment.java:42: trailing whitespace.
+[32m+[m[41m    [m
+backend1/Payment-Service/src/main/java/com/payment/entity/Payment.java:44: trailing whitespace.
+[32m+[m[41m    [m
+backend1/Payment-Service/src/main/java/com/payment/service/PaymentService.java:39: trailing whitespace.
+[32m+[m[32m                .amount(payment.getAmount())[m[41m  [m
+backend1/Payment-Service/src/main/resources/application.properties:16: new blank line at EOF.
+backend1/Wellness-Service/src/main/java/com/wellness/WellnessServiceApplication.java:14: new blank line at EOF.
+backend1/appointment-Service/src/main/java/com/appointment/AppointmentServiceApplication.java:13: trailing whitespace.
+[32m+[m[41m    [m
+backend1/appointment-Service/src/main/java/com/appointment/controller/AppointmentController.java:19: trailing whitespace.
+[32m+[m[41m    [m
